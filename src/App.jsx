@@ -729,12 +729,6 @@ function App() {
                   <button type="submit" className="btn-primary-grad mt-2">
                     เข้าสู่ระบบหลังบ้าน
                   </button>
-                  <div
-                    className="text-center small mt-2"
-                    style={{ color: "var(--text-dim)" }}
-                  >
-                    บัญชีผู้ดูแลระบบตั้งค่าไว้ในไฟล์ .env ของฝั่งเซิร์ฟเวอร์
-                  </div>
                 </form>
               </div>
             </div>
